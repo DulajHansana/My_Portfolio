@@ -9,9 +9,19 @@
 * Reusable Components: Modularized React components for maintainability and scalability.</p>
 
 <h3>Technology Stack</h3>
-<p>* Framework: Next.js
-* Styling: CSS, SCSS, and other preprocessors
-* Languages: JavaScript, TypeScript
+<p>* Framework: Next.js<br>
+* Styling: CSS, SCSS, and other preprocessors<br>
+* Languages: JavaScript, TypeScript<br>
 * Tools:<br>
-       &nbsp&nbsp* Figma for UI design<br>
-       &nbsp&nbsp* Version control using Git and GitHub</p>
+       &nbsp&nbsp# Figma for UI design<br>
+       &nbsp&nbsp# Version control using Git and GitHub</p>
+
+<h3>Folder Structure</h3>
+<p>Here’s an overview of the folder structure:</p><br>
+.
+├── Documentation/      # Project-related documentation
+├── Figma_template/     # Design templates from Figma
+├── Portfolio/          # Core application files
+├── LICENSE             # License information
+├── README.md           # This file
+└── .gitignore          # Ignored files configuration
