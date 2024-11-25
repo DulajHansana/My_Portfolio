@@ -16,34 +16,30 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 							<p className="fs-6 fw-medium text-200 mb-5">I'm always excited to take on new projects and collaborate with innovative minds.</p>
 							<div className="mb-3">
 								<span className="text-400 fs-5">Phone Number</span>
-								<p className="mb-0">+1-234-567-8901</p>
+								<p className="mb-0">+94 77 893 7472</p>
 							</div>
 							<div className="mb-3">
 								<span className="text-400 fs-5">Email</span>
-								<p className="mb-0">contact@william.design</p>
-							</div>
-							<div className="mb-3">
-								<span className="text-400 fs-5">Skype</span>
-								<p className="mb-0">WilliamDesignUX</p>
+								<p className="mb-0">dulajhansana1973@gmail.com</p>
 							</div>
 							<div className="mb-3">
 								<span className="text-400 fs-5">Address</span>
-								<p className="mb-0">0811 Erdman Prairie Road, Joaville, California 90210</p>
+								<p className="mb-0">Homagama, Colombo</p>
 							</div>
 						</div>
 						<div className="contact-list">
 							<p className="text-400 fs-5 mb-2">Social</p>
 							<div className="d-md-flex d-none gap-3">
-								<Link href="/http://facebook.com">
+								<Link href="https://www.facebook.com/profile.php?id=100086962353666">
 									<i className="ri-facebook-circle-fill fs-18" />
 								</Link>
-								<Link href="/http://twitter.com">
+								<Link href="https://x.com/dulaj_hansana">
 									<i className="ri-twitter-x-fill fs-18" />
 								</Link>
-								<Link href="/http://linkedin.com">
+								<Link href="https://www.linkedin.com/in/dulaj-hansana-7ab300259">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>
-								<Link href="/http://github.com">
+								<Link href="https://github.com/DulajHansana">
 									<i className="ri-github-fill fs-18" />
 								</Link>
 							</div>

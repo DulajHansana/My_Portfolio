@@ -16,7 +16,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 							<div className="container py-3 px-4">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/index-2">
 									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="zelio" />
-									<span className="fs-4 ms-2">James.dev</span>
+									<span className="fs-4 ms-2">Dulaj.dev</span>
 								</Link>
 								<div className="d-none d-lg-flex">
 									<div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -34,9 +34,6 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 												<Link className="nav-link" href="#portfolio">Portfolio</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#blog">Blog</Link>
-											</li>
-											<li className="nav-item">
 												<Link className="nav-link" href="#contact">Contact</Link>
 											</li>
 										</ul>
@@ -44,16 +41,16 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 								</div>
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
-										<Link href="/http://facebook.com">
+										<Link href="https://www.facebook.com/profile.php?id=100086962353666">
 											<i className="ri-facebook-circle-fill fs-18" />
 										</Link>
-										<Link href="/http://twitter.com">
+										<Link href="https://x.com/dulaj_hansana">
 											<i className="ri-twitter-x-fill fs-18" />
 										</Link>
-										<Link href="/http://linkedin.com">
+										<Link href="https://www.linkedin.com/in/dulaj-hansana-7ab300259/">
 											<i className="ri-linkedin-fill fs-18" />
 										</Link>
-										<Link href="/http://github.com">
+										<Link href="https://github.com/DulajHansana">
 											<i className="ri-github-fill fs-18" />
 										</Link>
 									</div>
