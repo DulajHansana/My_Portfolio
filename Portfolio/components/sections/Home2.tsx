@@ -25,13 +25,13 @@ export default function Home2() {
 											&lt;span&gt;
 											<div className="text-dark">
 												<div className="typewriter">
-													<h1 className="fs-6 fw-medium">Hey, I’m James</h1>
+													<h1 className="fs-6 fw-medium">Hey, I’m Dulaj</h1>
 												</div>
 											</div>
 											&lt;/span&gt;
 										</div>
-										<h1 className="fs-50 my-3">Senior <span className="text-linear-4">{'{'}Full Stack{'}'}</span>Web &amp; App developer<span className="flicker">_</span></h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">With expertise in cutting-edge technologies such as</span> <span className="text-secondary-2">NodeJS</span>, <span className="text-secondary-2">React</span>, <span className="text-secondary-2">Angular</span>, and <span className="text-secondary-2">Laravel</span><span className="text-dark">... I deliver web solutions that are both innovative and robust.</span>&lt;/p&gt;</p>
+										<h1 className="fs-50 my-3">junior<span className="text-linear-4">{'{'}Full Stack{'}'}</span>Web &amp; App developer<span className="flicker">_</span></h1>
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">With expertise in cutting-edge technologies such as</span> <span className="text-secondary-2">NodeJS</span>, <span className="text-secondary-2">React</span>, <span className="text-secondary-2">Flutter</span>, and <span className="text-secondary-2"></span>NextJs<span className="text-dark">... I deliver web solutions that are both innovative and robust.</span>&lt;/p&gt;</p>
 										<div className="row">
 											<div className="col-7">
 												{/* Carausel Scroll */}
@@ -42,11 +42,7 @@ export default function Home2() {
 																<img src="assets/imgs/home-page-2/hero-1/icon-1.svg" alt="brand" />
 															</Link>
 														</li>
-														<li className="carouselTicker__item">
-															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
-																<img src="assets/imgs/home-page-2/hero-1/icon-2.svg" alt="brand" />
-															</Link>
-														</li>
+														
 														<li className="carouselTicker__item">
 															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
 																<img src="assets/imgs/home-page-2/hero-1/icon-3.svg" alt="brand" />
