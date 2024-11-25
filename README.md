@@ -7,3 +7,11 @@
 * Portfolio Showcase: Highlighting personal and professional projects with detailed descriptions and visuals.<br>
 * Interactive UI: Smooth transitions and animations to enhance the user experience.<br>
 * Reusable Components: Modularized React components for maintainability and scalability.</p>
+
+<h3>Technology Stack</h3>
+<p>* Framework: Next.js
+* Styling: CSS, SCSS, and other preprocessors
+* Languages: JavaScript, TypeScript
+* Tools:<br>
+       &nbsp&nbsp* Figma for UI design<br>
+       &nbsp&nbsp* Version control using Git and GitHub</p>
