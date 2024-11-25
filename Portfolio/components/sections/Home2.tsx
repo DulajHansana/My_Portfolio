@@ -42,10 +42,19 @@ export default function Home2() {
 																<img src="assets/imgs/home-page-2/hero-1/icon-1.svg" alt="brand" />
 															</Link>
 														</li>
-														
+														<li className="carouselTicker__item">
+															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
+																<img src="assets/imgs/home-page-2/hero-1/icon-2.svg" alt="brand" />
+															</Link>
+														</li>
 														<li className="carouselTicker__item">
 															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
 																<img src="assets/imgs/home-page-2/hero-1/icon-3.svg" alt="brand" />
+															</Link>
+														</li>
+														<li className="carouselTicker__item">
+															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
+																<img src="assets/imgs/home-page-2/hero-1/icon-7.svg" alt="brand" />
 															</Link>
 														</li>
 														<li className="carouselTicker__item">
@@ -55,7 +64,22 @@ export default function Home2() {
 														</li>
 														<li className="carouselTicker__item">
 															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
+																<img src="assets/imgs/home-page-2/hero-1/icon-8.svg" alt="brand" />
+															</Link>
+														</li>
+														<li className="carouselTicker__item">
+															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
 																<img src="assets/imgs/home-page-2/hero-1/icon-5.svg" alt="brand" />
+															</Link>
+														</li>
+														<li className="carouselTicker__item">
+															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
+																<img src="assets/imgs/home-page-2/hero-1/icon-9.svg" alt="brand" />
+															</Link>
+														</li>
+														<li className="carouselTicker__item">
+															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
+																<img src="assets/imgs/home-page-2/hero-1/icon-6.svg" alt="brand" />
 															</Link>
 														</li>
 													</ul>
